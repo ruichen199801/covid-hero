@@ -23,18 +23,19 @@ A video game project with Pygame Zero
 1. Basic Rules
 * Use "W""A""S""D" to control movement of the character
 * Collect antibodies to accelerate vaccine development process
-* Dodge viruses to stay alive. If your HP drops to 0, you die!
+* Once the progress bar reaches 100%, the vaccine appears. Collect the vaccine, game win!
+* Watch out for viruses and dodge them while collecting antibodies. If your HP drops to 0, you die!
 2. Game Features
 <ul>
 <li>Mutated viruses: have larger size and deal more damage</li>
 <li>Items:  can be collected and used to gain special abilities and better survive viruses</li>
-<br><ul>
+<ul>
 <li>Masks: grant the player immunity to viruses within 3 seconds</li>
 <li>Disinfectants: instantly clear viruses in a given range</li>
 <li>Portals: appear in pairs, allow teleportation from one end to the other</li>
-</ul><br>
+</ul>
 <li>Difficulty levels: 10 levels + a tutorial level</li>
-<li>Leaderboard: rank the time the player spent each game</li>
+<li>Leaderboard: rankings based on the time player spent each game</li>
 </ul>
 
 ### Credits
