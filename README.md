@@ -19,12 +19,23 @@ A video game project with Pygame Zero
 <p>Covid-19 is breaking out. As a doctor fighting against the virus on the frontline, you need to stay alive and develop the vaccine ASAP.</p>
 
 ![In-game Page](https://github.com/ruichen199801/covid-hero/blob/main/images/in-game-page.png)
-* <strong>Basic Rules</strong>
-* <strong>Stats and Movement</strong>
-* <strong>Victory Condition</strong>
-* <strong>Collectable Items</strong>
-* <strong>Difficulty levels</strong>
-* <strong>Leaderboard</strong>
+
+1. <strong>Basic Rules</strong>
+* Use "W""A""S""D" to control movement of the character
+* Collect antibodies to accelerate vaccine development process
+* Dodge viruses to stay alive. If your HP drops to 0, you die!
+2. <strong>Game Features</strong>
+<ul>
+<li>Mutated viruses: have larger size and deal more damage</li>
+<li>Items:  can be collected and used to gain special abilities and better survive viruses</li>
+<ul>
+<li>Masks: grant the player immunity to viruses within 3 seconds</li>
+<li>Disinfectants: instantly clear viruses in a given range</li>
+<li>Portals: appear in pairs, allow teleportation from one end to the other</li>
+</ul>
+<li>Difficulty levels: 10 levels + a tutorial level</li>
+<li>Leaderboard: rank the time the player spent each game</li>
+</ul>
 
 ### Credits
 * This game was created to pay tribute to frontline health care professionals during the pandemic
