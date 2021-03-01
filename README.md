@@ -20,19 +20,19 @@ A video game project with Pygame Zero
 
 ![In-game Page](https://github.com/ruichen199801/covid-hero/blob/main/images/in-game-page.png)
 
-1. <strong>Basic Rules</strong>
+1. Basic Rules
 * Use "W""A""S""D" to control movement of the character
 * Collect antibodies to accelerate vaccine development process
 * Dodge viruses to stay alive. If your HP drops to 0, you die!
-2. <strong>Game Features</strong>
+2. Game Features
 <ul>
 <li>Mutated viruses: have larger size and deal more damage</li>
 <li>Items:  can be collected and used to gain special abilities and better survive viruses</li>
-<ul>
+<br><ul>
 <li>Masks: grant the player immunity to viruses within 3 seconds</li>
 <li>Disinfectants: instantly clear viruses in a given range</li>
 <li>Portals: appear in pairs, allow teleportation from one end to the other</li>
-</ul>
+</ul><br>
 <li>Difficulty levels: 10 levels + a tutorial level</li>
 <li>Leaderboard: rank the time the player spent each game</li>
 </ul>
