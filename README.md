@@ -28,7 +28,7 @@ A video game project with Pygame Zero
 2. Game Features
 <ul>
 <li>Mutated viruses: have larger size and deal more damage</li>
-<li>Items:  can be collected and used to gain special abilities and better survive viruses</li>
+<li>Items:  can be collected and used to gain special abilities to better survive viruses</li>
 <ul>
 <li>Masks: grant the player immunity to viruses within 3 seconds</li>
 <li>Disinfectants: instantly clear viruses in a given range</li>
