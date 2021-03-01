@@ -2,10 +2,9 @@
 
 A video game project with Pygame Zero
 
-![]()
+![Welcome Page](https://github.com/ruichen199801/covid-hero/blob/main/images/welcome-page.png)
 
 ### Description
-
 * Class project for an introductory Python course instructed by Prof. Bin Chen at Peking University
 * Created completely with Python using [Pygame Zero](https://github.com/lordmauve/pgzero), a zero-boilerplate games programming framework for Python 3 based on Pygame
 * The [demo video](https://www.bilibili.com/video/BV1XT4y177eE?p=14) can be found on Bilibili.com
