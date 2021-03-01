@@ -16,8 +16,9 @@ A video game project with Pygame Zero
 3. For more detailed instructions, please see [Pygame Zero Documentation](https://pygame-zero.readthedocs.io/en/stable/index.html).
 
 ### How to Play
-Covid-19 is breaking out. As a doctor fighting against the virus on the frontline, you need to stay alive and develop the vaccine ASAP. 
-<br>![In-game Page](https://github.com/ruichen199801/covid-hero/blob/main/images/in-game-page.png)
+<p>Covid-19 is breaking out. As a doctor fighting against the virus on the frontline, you need to stay alive and develop the vaccine ASAP.</p>
+
+![In-game Page](https://github.com/ruichen199801/covid-hero/blob/main/images/in-game-page.png)
 * <strong>Basic Rules</strong>
 * <strong>Stats and Movement</strong>
 * <strong>Victory Condition</strong>
