@@ -1,7 +1,5 @@
 ## Covid Hero
 
-A video game project with Pygame Zero
-
 ![Welcome Page](https://github.com/ruichen199801/covid-hero/blob/main/images/welcome-page.png)
 
 ### Description
