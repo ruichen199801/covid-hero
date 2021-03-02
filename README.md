@@ -23,7 +23,7 @@ A video game project with Pygame Zero
 1. Basic Rules
 * Use "W""A""S""D" to control movement of the character
 * Collect antibodies to accelerate vaccine development process
-* Once the progress bar reaches 100%, the vaccine appears. Collect the vaccine, game win!
+* Once the progress bar reaches 100%, the vaccine appears. Collect the vaccine, you win!
 * Watch out for viruses and dodge them while collecting antibodies. If your HP drops to 0, you die!
 2. Game Features
 <ul>
